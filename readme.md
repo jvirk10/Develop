@@ -32,6 +32,7 @@ Commented HTML and CSS for readability and clarity
 
 
 screenshot
-<img width="1280" alt="Screen Shot 2022-02-27 at 6 45 52 PM" src="https://user-images.githubusercontent.com/99306075/155905152-8531ecdb-f5f9-4d67-b79d-2062ee6febc1.png">
+![snip3](https://user-images.githubusercontent.com/99306075/155905893-01734a84-8d5f-401e-810b-7dadb4be1286.png)
+![snip2](https://user-images.githubusercontent.com/99306075/155905901-13dd528a-5ff9-43c3-8862-169342e4436c.png)
 
 
